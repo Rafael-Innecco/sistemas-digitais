@@ -1,0 +1,14 @@
+>
+toplevel.vhd
+>/usr/local/lib/ghdl/ieee/v93/
+../../src/ieee/v93/numeric_bit.vhdl
+>/usr/local/lib/ghdl/ieee/v93/
+../../src/ieee/v93/numeric_bit-body.vhdl
+>/usr/local/lib/ghdl/std/v93/
+../../src/std/v93/textio.vhdl
+>/usr/local/lib/ghdl/std/v93/
+../../src/std/v93/textio-body.vhdl
+>
+testbench.vhd
+>
+polistack.vhd

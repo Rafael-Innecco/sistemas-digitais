@@ -1,0 +1,4 @@
+v 4
+file . "polistack.vhd" "1db269eb29cf3399b628ecab0d74f14a00b65997" "20220426033127.541":
+  entity polistack at 8( 224) + 0 on 105;
+  architecture allinone of polistack at 30( 835) + 0 on 106;

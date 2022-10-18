@@ -1,0 +1,6 @@
+v 4
+file . "multiplexers.vhd" "b28247ad87506ed5fe2dc69451801dec05827e27" "20220701123918.937":
+  entity mux_2 at 1( 0) + 0 on 13;
+  architecture arch1 of mux_2 at 12( 245) + 0 on 14;
+  entity mux_4 at 17( 348) + 0 on 15;
+  architecture arch1 of mux_4 at 29( 669) + 0 on 16;
